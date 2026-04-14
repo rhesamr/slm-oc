@@ -54,12 +54,17 @@ ollama pull granite3.1-8b:q4_k_m
 
 If you use this repository, please cite:
 
+Paper: https://ieeexplore.ieee.org/document/11137427/  
+DOI: https://doi.org/10.1109/ISITIA66279.2025.11137427
+
 ```bibtex
 @inproceedings{ramadhan2025slmopencoding,
   author = {Ramadhan, Rhesa M. and Sushandoyo, Dedy},
   title = {Enabling Qualitative Research with Small Language Models: A Sliding Window Method for Open Coding on Resource-Constrained Hardware},
   booktitle = {2025 International Seminar on Intelligent Technology and Its Applications (ISITIA)},
-  year = {2025}
+  year = {2025},
+  doi = {10.1109/ISITIA66279.2025.11137427},
+  url = {https://ieeexplore.ieee.org/document/11137427/}
 }
 ```
 
